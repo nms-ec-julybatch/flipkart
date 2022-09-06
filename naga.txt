@@ -1,3 +1,4 @@
+hi this is naga
 hello "every one practicing only git commands"
-
 hi this is master branch
+hello "GM/GA/GE"
