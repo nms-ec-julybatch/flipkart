@@ -1,1 +1,2 @@
 hello "every one practicing only git commands"
+hello "GM/GA/GE"
