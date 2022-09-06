@@ -4,4 +4,6 @@ hello "every one practicing only git commands
 ths is cinema
 this is the bestone
 hi this is master branch
+hello "every one practicing only git commands"
+hello "GM/GA/GE"
 
